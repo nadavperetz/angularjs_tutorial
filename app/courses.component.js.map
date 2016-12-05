@@ -1,0 +1,1 @@
+{"version":3,"file":"courses.component.js","sourceRoot":"","sources":["courses.component.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;YAcA;gBAAA;oBACI,UAAK,GAAW,2BAA2B,CAAC;oBAC5C,YAAO,GAAG,CAAC,SAAS,EAAE,SAAS,EAAE,SAAS,CAAC,CAAC;gBAChD,CAAC;gBAfD;oBAAC,gBAAS,CAAC;wBACP,QAAQ,EAAE,SAAS;wBACnB,QAAQ,EAAE,oOAOE;qBAEf,CAAC;;oCAAA;gBAIF,uBAAC;YAAD,CAAC,AAHD,IAGC;YAHD,+CAGC,CAAA"}
